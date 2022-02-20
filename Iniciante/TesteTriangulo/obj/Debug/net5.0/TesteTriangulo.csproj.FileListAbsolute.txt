@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\TesteTriangulo\bin\Debug\net5.0\TesteTriangulo.exe
+C:\Users\Priscila\Desktop\TesteTriangulo\bin\Debug\net5.0\TesteTriangulo.deps.json
+C:\Users\Priscila\Desktop\TesteTriangulo\bin\Debug\net5.0\TesteTriangulo.runtimeconfig.json
+C:\Users\Priscila\Desktop\TesteTriangulo\bin\Debug\net5.0\TesteTriangulo.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\TesteTriangulo\bin\Debug\net5.0\TesteTriangulo.dll
+C:\Users\Priscila\Desktop\TesteTriangulo\bin\Debug\net5.0\ref\TesteTriangulo.dll
+C:\Users\Priscila\Desktop\TesteTriangulo\bin\Debug\net5.0\TesteTriangulo.pdb
+C:\Users\Priscila\Desktop\TesteTriangulo\obj\Debug\net5.0\TesteTriangulo.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\TesteTriangulo\obj\Debug\net5.0\TesteTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\TesteTriangulo\obj\Debug\net5.0\TesteTriangulo.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\TesteTriangulo\obj\Debug\net5.0\TesteTriangulo.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\TesteTriangulo\obj\Debug\net5.0\TesteTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\TesteTriangulo\obj\Debug\net5.0\TesteTriangulo.dll
+C:\Users\Priscila\Desktop\TesteTriangulo\obj\Debug\net5.0\ref\TesteTriangulo.dll
+C:\Users\Priscila\Desktop\TesteTriangulo\obj\Debug\net5.0\TesteTriangulo.pdb
+C:\Users\Priscila\Desktop\TesteTriangulo\obj\Debug\net5.0\TesteTriangulo.genruntimeconfig.cache

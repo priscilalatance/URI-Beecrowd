@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\TesteLista\bin\Debug\net5.0\TesteLista.exe
+C:\Users\Priscila\Desktop\TesteLista\bin\Debug\net5.0\TesteLista.deps.json
+C:\Users\Priscila\Desktop\TesteLista\bin\Debug\net5.0\TesteLista.runtimeconfig.json
+C:\Users\Priscila\Desktop\TesteLista\bin\Debug\net5.0\TesteLista.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\TesteLista\bin\Debug\net5.0\TesteLista.dll
+C:\Users\Priscila\Desktop\TesteLista\bin\Debug\net5.0\ref\TesteLista.dll
+C:\Users\Priscila\Desktop\TesteLista\bin\Debug\net5.0\TesteLista.pdb
+C:\Users\Priscila\Desktop\TesteLista\obj\Debug\net5.0\TesteLista.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\TesteLista\obj\Debug\net5.0\TesteLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\TesteLista\obj\Debug\net5.0\TesteLista.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\TesteLista\obj\Debug\net5.0\TesteLista.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\TesteLista\obj\Debug\net5.0\TesteLista.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\TesteLista\obj\Debug\net5.0\TesteLista.dll
+C:\Users\Priscila\Desktop\TesteLista\obj\Debug\net5.0\ref\TesteLista.dll
+C:\Users\Priscila\Desktop\TesteLista\obj\Debug\net5.0\TesteLista.pdb
+C:\Users\Priscila\Desktop\TesteLista\obj\Debug\net5.0\TesteLista.genruntimeconfig.cache

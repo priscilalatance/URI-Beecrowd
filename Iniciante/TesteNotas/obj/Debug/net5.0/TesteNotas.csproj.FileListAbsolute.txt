@@ -1,0 +1,16 @@
+C:\Users\Priscila\Desktop\TesteNotas\obj\Debug\net5.0\TesteNotas.csproj.AssemblyReference.cache
+C:\Users\Priscila\Desktop\TesteNotas\obj\Debug\net5.0\TesteNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Priscila\Desktop\TesteNotas\obj\Debug\net5.0\TesteNotas.AssemblyInfoInputs.cache
+C:\Users\Priscila\Desktop\TesteNotas\obj\Debug\net5.0\TesteNotas.AssemblyInfo.cs
+C:\Users\Priscila\Desktop\TesteNotas\obj\Debug\net5.0\TesteNotas.csproj.CoreCompileInputs.cache
+C:\Users\Priscila\Desktop\TesteNotas\bin\Debug\net5.0\TesteNotas.exe
+C:\Users\Priscila\Desktop\TesteNotas\bin\Debug\net5.0\TesteNotas.deps.json
+C:\Users\Priscila\Desktop\TesteNotas\bin\Debug\net5.0\TesteNotas.runtimeconfig.json
+C:\Users\Priscila\Desktop\TesteNotas\bin\Debug\net5.0\TesteNotas.runtimeconfig.dev.json
+C:\Users\Priscila\Desktop\TesteNotas\bin\Debug\net5.0\TesteNotas.dll
+C:\Users\Priscila\Desktop\TesteNotas\bin\Debug\net5.0\ref\TesteNotas.dll
+C:\Users\Priscila\Desktop\TesteNotas\bin\Debug\net5.0\TesteNotas.pdb
+C:\Users\Priscila\Desktop\TesteNotas\obj\Debug\net5.0\TesteNotas.dll
+C:\Users\Priscila\Desktop\TesteNotas\obj\Debug\net5.0\ref\TesteNotas.dll
+C:\Users\Priscila\Desktop\TesteNotas\obj\Debug\net5.0\TesteNotas.pdb
+C:\Users\Priscila\Desktop\TesteNotas\obj\Debug\net5.0\TesteNotas.genruntimeconfig.cache
